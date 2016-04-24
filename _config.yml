@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tabansi-js.github.io
+title: tabansi-js
+paginate: 10
